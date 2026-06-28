@@ -1,2 +1,2 @@
-freshman carcar class
-frottage 拓印機
+# PaintingBot 車車課
+A Three-Axis CNC System for Gradient Color Frottage
